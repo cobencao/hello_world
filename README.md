@@ -25,3 +25,7 @@
 #### 1.9 异常处理
 #### 1.10 面向对象编程
 ### 2 可视化
+#### 2.1 Matplotlib 绘图原理
+#### 2.2 pyplot_seaborn_cheatsheet
+#### 2.3 seaborn 绘图
+#### 2.4 Seaborn 调色板
