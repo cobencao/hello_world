@@ -17,6 +17,10 @@
 #### 1.5 Print
 #### 1.6 Magic
 #### 1.7 Package
+##### 1.7.1 collections_cheatsheet
+##### 1.7.2 datatime_cheatsheet
+##### 1.7.3 numpy_cheatsheet
+##### 1.7.4 pandas_cheatsheet
 #### 1.8 文件IO
 #### 1.9 异常处理
 #### 1.10 面向对象编程
